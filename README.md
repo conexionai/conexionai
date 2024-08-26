@@ -11,13 +11,13 @@ conexionai/conexionai is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Conexión IA
+# Conexión AI
 
-¡Bienvenido al repositorio oficial de Conexión IA!
+¡Bienvenido al repositorio oficial de Conexión AI!
 
 ## Quiénes somos
 
-Conexión IA es una empresa especializada en la creación de soluciones tecnológicas a medida para empresas y emprendedores. Nos enfocamos en dos áreas clave:
+Conexión AI es una empresa especializada en la creación de soluciones tecnológicas a medida para empresas y emprendedores. Nos enfocamos en dos áreas clave:
 
 1. **Automatizaciones Inteligentes**: Implementamos soluciones de automatización que optimizan procesos y aumentan la eficiencia en diferentes áreas de tu negocio, desde la gestión administrativa hasta la interacción con clientes.
 
@@ -37,8 +37,8 @@ Nuestra misión es empoderar a las empresas y emprendedores con herramientas tec
 
 ## Contacto
 
-Si tienes algún proyecto en mente o necesitas más información sobre nuestros servicios, no dudes en contactarnos a través de [nuestro sitio web](https://www.conexionia.com) o por correo electrónico a contacto@conexionia.com.
+Si tienes algún proyecto en mente o necesitas más información sobre nuestros servicios, no dudes en contactarnos a través de [nuestro sitio web](https://www.conexionai.com) o por correo electrónico a contacto@conexionai.com.
 
 ---
 
-*Este repositorio contiene los proyectos y soluciones desarrollados por Conexión IA. Todos los derechos reservados.*
+*Este repositorio contiene los proyectos y soluciones desarrollados por Conexión AI. Todos los derechos reservados.*
